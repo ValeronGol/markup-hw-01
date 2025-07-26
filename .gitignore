@@ -1,4 +1,7 @@
+.prettierrc.json
+
 # Logs
+
 logs
 *.log
 npm-debug.log*
